@@ -1,0 +1,3 @@
+module Hello where
+greeting : Text
+greeting = "Hello, World"
