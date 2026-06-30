@@ -3,10 +3,6 @@ name: test-daml-component
 source: daml
 version: 0.0.1
 
-components:
-  - name: test-daml-component
-    path: .
-
 dependencies:
   - daml-prim
   - daml-stdlib
